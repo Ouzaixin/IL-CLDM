@@ -58,7 +58,7 @@ python main.py
 
 Some of the results produced by our proposed model and competitive models are as follows. *For more such results, consider seeing the main paper and also its supplementary section*
 
-<img src=image\result.png>
+<img src=image\result.jpg>
 
 ## 5. Contact
 
