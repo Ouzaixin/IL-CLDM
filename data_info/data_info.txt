@@ -1,0 +1,5 @@
+This folder should contain three files: 
+1: data_info (containing labels for each ID)
+2: train.txt (containing the ID of training dataset, like '037S6046')；
+3: validation.txt (containing the ID of validation dataset)；
+4: test.txt (containing the ID of test dataset).
