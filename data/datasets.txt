@@ -1,0 +1,8 @@
+File containing the links to two datasets.
+- ADNI (https://adni.loni.usc.edu/data-samples/access-data/)
+- Huashan Hospital (This is a private dataset.)
+
+This folder should contain three sub-folders: 
+1: whole_Abeta (containing the Abeta-PET images);
+2: whole_MRI (containing the MR images);
+3: latent_Abeta (containing the latent representations of original Abeta-PET images. After the training of the first stage, the "encoding" in main.py will generate these latent representations.)
