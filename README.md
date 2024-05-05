@@ -6,10 +6,10 @@ This repo contains the official Pytorch implementation of the paper: Image-and-L
 
 1. [Summary of the Model](#1-summary-of-the-model)
 2. [Setup instructions and dependancies](#2-setup-instructions-and-dependancies)
-3. [Running the model](#4-running-the-model)
-4. [Some results of the paper](#5-some-results-of-the-paper)
-5. [Contact](#6-contact)
-6. [License](#7-license)
+3. [Running the model](#3-running-the-model)
+4. [Some results of the paper](#4-some-results-of-the-paper)
+5. [Contact](#5-contact)
+6. [License](#6-license)
 
 ## 1. Summary of the Model
 
