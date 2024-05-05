@@ -1,0 +1,4 @@
+This folder stores 
+1: the checkpoint files of two models (AAE: the first stage; Unet: the second stage);
+2: the loss log files of two stages;
+3: the indicator files (i.e., PSNR and SSIM) of two stages.
