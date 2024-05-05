@@ -25,7 +25,7 @@ For training/testing the model, you must first download ADNI dataset. You can do
 
     ├── data                # Follow the way the dataset has been placed here
     │   ├── whole_Abeta        # Here Abeta-PET images must be placed
-    │   └── whole_MRI          # Here Abeta-PET images must be placed
+    │   └── whole_MRI          # Here MR images must be placed
     │   └── latent_Abeta       # This can be empty since the encoding process will generate these latent representations of original Abeta-PET images
     ├── data_info          # Follow the way the data info has been placed here
     │   ├── data_info.csv       # This file contains labels for each ID
